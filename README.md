@@ -1,5 +1,7 @@
+
 # Git
-*markdown italic/*
+_italic_
+*markdown italic*
 # HEADER
-_test/_
-~markdown/~
+_test_
+~markdown~
